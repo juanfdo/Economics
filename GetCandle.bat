@@ -1,0 +1,1 @@
+curl "https://api.hitbtc.com/api/2/public/candles/LTCBTC?period=M30&limit=20" > candle2.txt
