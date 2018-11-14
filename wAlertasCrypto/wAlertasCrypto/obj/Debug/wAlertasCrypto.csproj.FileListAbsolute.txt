@@ -1,0 +1,64 @@
+C:\alertas\wAlertasCrypto\wAlertasCrypto\bin\Debug\wAlertasCrypto.exe.config
+C:\alertas\wAlertasCrypto\wAlertasCrypto\bin\Debug\wAlertasCrypto.exe
+C:\alertas\wAlertasCrypto\wAlertasCrypto\bin\Debug\wAlertasCrypto.pdb
+C:\alertas\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmPpal.resources
+C:\alertas\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.Properties.Resources.resources
+C:\alertas\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.csproj.GenerateResource.Cache
+C:\alertas\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.exe
+C:\alertas\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.pdb
+C:\alertas\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.csprojResolveAssemblyReference.cache
+D:\robot\alertas\wAlertasCrypto\wAlertasCrypto\bin\Debug\wAlertasCrypto.exe.config
+D:\robot\alertas\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.exe
+D:\robot\alertas\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.pdb
+D:\robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\bin\Debug\wAlertasCrypto.exe.config
+D:\robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.exe
+D:\robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.pdb
+D:\robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.csprojResolveAssemblyReference.cache
+D:\robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmPpal.resources
+D:\robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.Properties.Resources.resources
+D:\robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.csproj.GenerateResource.Cache
+D:\robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\bin\Debug\wAlertasCrypto.exe
+D:\robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\bin\Debug\wAlertasCrypto.pdb
+D:\robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\bin\Debug\RestSharp.pdb
+D:\robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\bin\Debug\RestSharp.xml
+D:\robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmApiKeys.resources
+D:\robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmDistribRules.resources
+D:\robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmNeuralNet.resources
+D:\robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmEstrategias.resources
+D:\robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmEditorEstrategia.resources
+F:\Bot\wAlertasCrypto\wAlertasCrypto\bin\Debug\wAlertasCrypto.exe.config
+F:\Bot\wAlertasCrypto\wAlertasCrypto\bin\Debug\wAlertasCrypto.exe
+F:\Bot\wAlertasCrypto\wAlertasCrypto\bin\Debug\wAlertasCrypto.pdb
+F:\Bot\wAlertasCrypto\wAlertasCrypto\bin\Debug\RestSharp.pdb
+F:\Bot\wAlertasCrypto\wAlertasCrypto\bin\Debug\RestSharp.xml
+F:\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.csprojAssemblyReference.cache
+F:\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmDistribRules.resources
+F:\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmEditorEstrategia.resources
+F:\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmEstrategias.resources
+F:\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmNeuralNet.resources
+F:\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmPpal.resources
+F:\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmApiKeys.resources
+F:\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.Properties.Resources.resources
+F:\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.csproj.GenerateResource.cache
+F:\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.csproj.CoreCompileInputs.cache
+F:\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.csproj.CopyComplete
+F:\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.exe
+F:\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.pdb
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\bin\Debug\wAlertasCrypto.exe.config
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\bin\Debug\wAlertasCrypto.exe
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\bin\Debug\wAlertasCrypto.pdb
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\bin\Debug\RestSharp.pdb
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\bin\Debug\RestSharp.xml
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.csprojAssemblyReference.cache
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmDistribRules.resources
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmEditorEstrategia.resources
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmEstrategias.resources
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmNeuralNet.resources
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmPpal.resources
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.frmApiKeys.resources
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.Properties.Resources.resources
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.csproj.GenerateResource.cache
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.csproj.CoreCompileInputs.cache
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.csproj.CopyComplete
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.exe
+D:\DESAROLLO DE SOFTWARE\sicei\Robot\++Desarrollos\Bot\wAlertasCrypto\wAlertasCrypto\obj\Debug\wAlertasCrypto.pdb

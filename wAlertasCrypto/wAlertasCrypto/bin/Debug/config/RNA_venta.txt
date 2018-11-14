@@ -1,0 +1,8 @@
+m1_vta,10
+m5_vta,10
+m15_vta,10
+m30_vta,10
+SAR_vta,10
+MACD_vta,10
+RSI_vta,10
+EMA_vta,10

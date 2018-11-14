@@ -1,0 +1,8 @@
+m1_com,50
+m5_com,50
+m15_com,50
+m30_com,50
+SAR_com,50
+MACD_com,50
+RSI_com,50
+EMA_com,50

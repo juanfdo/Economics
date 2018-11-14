@@ -1,0 +1,3 @@
+<!-- Inicio widget Dolar-Colombia.com -->
+<script src="https://www.dolar-colombia.com/widget.js"></script>
+<!-- Fin widget Dolar-Colombia.com -->
