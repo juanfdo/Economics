@@ -1,0 +1,10 @@
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Release/http_dollar_request.exe
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Release/System.IO.dll
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Release/System.Net.Http.dll
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Release/System.Runtime.dll
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Release/System.Security.Cryptography.Algorithms.dll
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Release/System.Security.Cryptography.Encoding.dll
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Release/System.Security.Cryptography.Primitives.dll
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Release/System.Security.Cryptography.X509Certificates.dll
+/home/juan/Projects/http_dollar_request/http_dollar_request/obj/x86/Release/http_dollar_request.csproj.CoreCompileInputs.cache
+/home/juan/Projects/http_dollar_request/http_dollar_request/obj/x86/Release/http_dollar_request.exe

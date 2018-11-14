@@ -1,0 +1,12 @@
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Debug/http_dollar_request.exe
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Debug/http_dollar_request.pdb
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Debug/System.IO.dll
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Debug/System.Net.Http.dll
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Debug/System.Runtime.dll
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Debug/System.Security.Cryptography.Encoding.dll
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Debug/System.Security.Cryptography.Primitives.dll
+/home/juan/Projects/http_dollar_request/http_dollar_request/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/home/juan/Projects/http_dollar_request/http_dollar_request/obj/x86/Debug/http_dollar_request.csproj.CoreCompileInputs.cache
+/home/juan/Projects/http_dollar_request/http_dollar_request/obj/x86/Debug/http_dollar_request.exe
+/home/juan/Projects/http_dollar_request/http_dollar_request/obj/x86/Debug/http_dollar_request.pdb
